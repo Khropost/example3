@@ -3,6 +3,10 @@ h1{
 	font-size: 48px;
 }
 
+body{
+	margin: 0 auto;
+}
+
 .container{
 	font-family: arial;
 	width: 1140px;
