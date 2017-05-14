@@ -7,6 +7,10 @@ body{
 	margin: 0 auto;
 }
 
+body{
+	background-color: gray;
+}
+
 .container{
 	font-family: arial;
 	width: 1140px;
